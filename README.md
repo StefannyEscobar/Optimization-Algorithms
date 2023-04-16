@@ -1,7 +1,7 @@
 # Optimization-Algorithms
 
 
-## Implementation of different algorithm such as:
+## Implementation of different algorithms such as:
 
 
 #### <span style="color:Blue"> Newton, BFGS and gradient descendent
