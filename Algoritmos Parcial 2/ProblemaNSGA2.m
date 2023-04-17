@@ -19,7 +19,7 @@ params.Np = 200;        % Tamaño de la población
 params.pc = 0.9;        % Probabilidad de cruce
 params.pm = 1/6;        % Probabilidad de mutación: 1/3N, 
                         % donde N es el número de variables
-params.maxgen = 10;    % Numero de generaciones
+params.maxgen = 100;    % Numero de generaciones
 params.ms = 0.05;       %  fuerza de la mutación
 
 
